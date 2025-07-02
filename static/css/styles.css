@@ -118,6 +118,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	gap: 1rem;
+	transition: border-color 1s ease;
 }
 
 .tarjeta:hover,
